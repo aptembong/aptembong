@@ -1,4 +1,4 @@
-# Hi, I'm Akeyla Peele-Tembong (Key)
+# Hi, I'm Akeyla Peele-Tembong
 
 **AI Workflow & Automation Architect** · *Humans first, technology second.*
 
