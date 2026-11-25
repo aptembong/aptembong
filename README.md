@@ -8,6 +8,15 @@ I spent 18 years in K-12 education, first as a classroom teacher and then as a l
 
 ## Portfolio
 
+### Thirteen Stars AI Hub
+**Banking · Work smarter. Work responsibly.**
+
+A bank-wide "AI at Work" intranet hub for a fictional bank, built the way an enablement lead would run it day to day. Eight resource areas each show an owner, a review date and an approval status, so employees know what's current and who to ask.
+
+Includes: a branch staff learning path with a data-rules quiz and a 45-minute session plan, a prompt library, office hours, a responsible-use page with approved tools, a use case library, a nine-department champion network, idea intake with triage, a simulated adoption dashboard with a conservative value calculator, and a 90-day rollout plan.
+
+**[Live hub ↗](https://claude.ai/artifact/JtPofcL5qYif74c1DzjViF)**
+
 ### Riverlark Lesson Pipeline
 **K-12 edtech · One brief in. A lesson out.**
 
@@ -35,6 +44,6 @@ Includes: the skill and a branded review tool, a quick-start guide, data rules, 
 - **Enablement:** guides, labs, desk cards, champion programs and rollout plans that help people adopt new tools
 - **Governance:** data rules, human review, access and usage tracking, and reversible changes
 
-Both companies are fictional, created for portfolio purposes. The work in them is mine.
+All three companies are fictional, created for portfolio purposes. The work in them is mine.
 
 [LinkedIn](https://www.linkedin.com/in/akeylatembong)
